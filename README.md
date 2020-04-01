@@ -1,1 +1,1 @@
-Simple Rest API in PHP and SQL
+Simple Rest API in PHP
